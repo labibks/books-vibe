@@ -33,7 +33,7 @@ const BookDetails = () => {
         addToStoredDB(id)
 
        MySwal.fire({
-         title: "Custom width, padding, color, background.",
+         title: "This Book Already Exist",
          width: 600,
          padding: "3em",
          color: "#716add",
